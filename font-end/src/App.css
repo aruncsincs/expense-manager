@@ -1,0 +1,11 @@
+.btn{  
+  border: 2px solid #4CAF50;
+}
+
+
+/** on active **/
+
+.btn:active{
+  background: red;
+  
+}

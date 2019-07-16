@@ -1,0 +1,21 @@
+first  open mongodb 
+and create two database ems and emscat
+
+then open all three folder in seperate window and run
+1.back-end    //npm install  //node server
+2.back-end2   //npm install  //node server
+3.front-end   //npm install  //npm start 
+
+1.back-end  
+is used for storing database of incomeCategory,expensesCategory,money and date
+http://localhost:4000/ems
+
+
+2.back-end2
+is used for storing all category List database 
+http://localhost:5000/emscat/
+
+3.front-end 
+is used for user interface whatever you are seeing in the browser
+   
+ 
